@@ -1,5 +1,7 @@
 #include "board.h"
 #include "treeNode.h"
+#include "board.cpp"
+#include "treeNode.cpp"
 #include <iostream>
 using namespace std;
 
